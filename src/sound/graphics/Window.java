@@ -4,17 +4,14 @@ import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 
-import javax.sound.midi.InvalidMidiDataException;
 import javax.swing.JButton;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileFilter;
 
-import org.jfugue.Pattern;
 import org.jfugue.Player;
 
 import sound.midiPlayer.MidiPlayer;

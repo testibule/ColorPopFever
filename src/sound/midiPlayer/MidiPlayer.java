@@ -7,9 +7,11 @@ import javax.sound.midi.MidiSystem;
 import javax.sound.midi.Sequencer;
 import javax.sound.midi.Synthesizer;
 
-import sound.midiPlayer.exceptions.*;
+import org.jfugue.Player;
 
-import org.jfugue.*;
+import sound.midiPlayer.exceptions.NonStartedMusic;
+import sound.midiPlayer.exceptions.NullSequencerException;
+import sound.midiPlayer.exceptions.NullSynthesizerException;
 
 
 public class MidiPlayer {
