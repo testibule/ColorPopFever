@@ -4,10 +4,13 @@ ColorPopFever
 IUT project : Color Pop Fever 
 
 
-/***************************************************************************/
+*********
+*********
 ********* IMPORTANT : Include Jfugue as library before starting it. ********
+
 ********* You can find jfugue jar in the root of the project **************
-/***************************************************************************/
+*********
+*********
 
 Jfugue is a free API to work with Midi files in java, all rights reserved to David Koelle ; http://www.jfugue.org/. 
 
